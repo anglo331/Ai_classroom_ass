@@ -1,0 +1,6 @@
+flask
+werkzeug
+jinja2
+itsdangerous
+flask-cors
+flask-sqlalchemy
